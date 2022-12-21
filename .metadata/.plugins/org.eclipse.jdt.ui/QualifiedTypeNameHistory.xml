@@ -16,7 +16,6 @@
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="bubble.test.ex06.BackgroundPlayerService"/>
     <fullyQualifiedTypeName name="javax.print.DocFlavor.BYTE_ARRAY"/>
-    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
     <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
@@ -28,4 +27,8 @@
     <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="bubble.test.ex12.BackgroundBubbleService"/>
     <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="bubble.test.ex15.Moveable"/>
+    <fullyQualifiedTypeName name="bubble.test.ex15.EnemyWay"/>
+    <fullyQualifiedTypeName name="bubble.test.ex15.Enemy"/>
 </qualifiedTypeNameHistroy>
