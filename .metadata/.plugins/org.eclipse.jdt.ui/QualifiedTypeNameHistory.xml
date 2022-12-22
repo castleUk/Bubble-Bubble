@@ -31,4 +31,6 @@
     <fullyQualifiedTypeName name="bubble.test.ex15.Moveable"/>
     <fullyQualifiedTypeName name="bubble.test.ex15.EnemyWay"/>
     <fullyQualifiedTypeName name="bubble.test.ex15.Enemy"/>
+    <fullyQualifiedTypeName name="bubble.test.ex16.Enemy"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
