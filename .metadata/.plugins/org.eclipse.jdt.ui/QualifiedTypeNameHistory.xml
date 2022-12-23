@@ -11,9 +11,7 @@
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
     <fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="bubble.test.ex06.Player"/>
-    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
     <fullyQualifiedTypeName name="bubble.test.ex06.BackgroundPlayerService"/>
     <fullyQualifiedTypeName name="javax.print.DocFlavor.BYTE_ARRAY"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
@@ -24,7 +22,6 @@
     <fullyQualifiedTypeName name="bubble.test.ex11.PlayerDirection"/>
     <fullyQualifiedTypeName name="bubble.test.ex11.Moveable"/>
     <fullyQualifiedTypeName name="bubble.test.ex11.PlayerWay"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="bubble.test.ex12.BackgroundBubbleService"/>
     <fullyQualifiedTypeName name="java.awt.Color"/>
     <fullyQualifiedTypeName name="javax.swing.JLabel"/>
@@ -33,4 +30,22 @@
     <fullyQualifiedTypeName name="bubble.test.ex15.Enemy"/>
     <fullyQualifiedTypeName name="bubble.test.ex16.Enemy"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="bubble.test.ex17.BubbleFrame"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="bubble.test.ex17.Player"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.lang.UnsupportedClassVersionError"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="bubble.test.ex17.Bubble"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.AudioInputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.Clip"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.AudioSystem"/>
+    <fullyQualifiedTypeName name="javax.crypto.Cipher"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.FloatControl"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.FloatControl.Type"/>
+    <fullyQualifiedTypeName name="bubble.test.ex17.BGM"/>
+    <fullyQualifiedTypeName name="bubble.test.ex18.Enemy"/>
 </qualifiedTypeNameHistroy>
