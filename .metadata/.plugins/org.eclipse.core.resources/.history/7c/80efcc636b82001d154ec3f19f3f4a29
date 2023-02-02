@@ -1,0 +1,13 @@
+package bubble.test.ex17;
+
+import java.io.File;
+
+import javax.sound.sampled.AudioInputStream;
+import javax.sound.sampled.AudioSystem;
+
+public class BGM {
+	 public BGM() {
+		AudioInputStream ais =AudioSystem.getAudioInputStream(new File("sound/bgm.wav"));
+	}
+
+}
