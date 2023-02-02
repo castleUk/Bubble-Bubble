@@ -43,7 +43,7 @@ public class GameOver extends JLabel{
 		
 		setIcon(gameOver);
 		setSize(700,187);
-		setLocation(20,40);
+		setLocation(40,40);
 		
 	}
 

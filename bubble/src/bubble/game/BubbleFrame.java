@@ -35,7 +35,7 @@ public class BubbleFrame extends JFrame {
 		setVisible(true);
 	}
 
-	private void initObject() {
+	private void initObject(){
 		backgroundMap = new JLabel(new ImageIcon("image/backgroundMap.png"));
 		setContentPane(backgroundMap);
 		player = new Player(mContext);
@@ -43,7 +43,11 @@ public class BubbleFrame extends JFrame {
 		enemys = new ArrayList<Enemy>();
 		enemys.add(new Enemy(mContext, EnemyWay.RIGHT));
 		enemys.add(new Enemy(mContext, EnemyWay.LEFT));
-		for(Enemy e : enemys) add(e);
+
+	
+		for(Enemy e : enemys) {
+				add(e);
+		}
 		bgm = new BGM();
 		bgm.playBGM("bgm.wav");
 	}
@@ -95,7 +99,9 @@ public class BubbleFrame extends JFrame {
 			}
 
 		});
+
 	}
+	
 
 	public static void main(String[] args) {
 		new BubbleFrame();

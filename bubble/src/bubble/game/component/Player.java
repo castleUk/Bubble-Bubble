@@ -200,6 +200,8 @@ public class Player extends JLabel implements Moveable {
 				e.printStackTrace();
 			}
 			System.out.println("플레이어 사망.");
+			
+
 		}).start();
 	}
 }
