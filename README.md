@@ -56,9 +56,9 @@ Run to BubbleFrame
 ## Credits
 
 This web uses the following skills:
-- [Spring](https://spring.io/)
-- [JSP](#)
-- [CSS/HTML/JS](#)
+- [Java](https://www.java.com/ko/)
+- [Jframe](#)
+
 
 
 ## License
